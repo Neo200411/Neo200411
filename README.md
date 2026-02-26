@@ -1,73 +1,60 @@
-# Hi 👋, I'm Neo Mishra
+<h1 align="center">Hi 👋, I'm Neo Mishra</h1>
+
+<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **AI Resume Builder**
+- 🌱 Learning **MERN Stack, AI Integration**
+- 💡 Interested in **AI, Web Development, and Backend**
+- 🎯 Goal: Become Full Stack AI Developer
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
 
-💻 MERN Stack Developer | 🤖 AI Enthusiast | 🚀 Full Stack Developer
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
 
 </div>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Computer Science Student
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node)
-- 🤖 Building AI-powered applications using Gemini AI
-- 🔥 Currently working on AI Resume Builder
-- 🌱 Learning System Design and Advanced Backend
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-
-### ⚙️ Backend
-![Node](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
----
-
-## 📌 Featured Project
+## 📂 Featured Project
 
 ### 🤖 AI Resume Builder
-MERN stack resume builder with Gemini AI integration
+AI-powered resume builder using MERN stack and Gemini AI.
 
-🔗 https://github.com/Neo200411/AI_Resume_Builder
+🔗 Repo: https://github.com/Neo200411/AI_Resume_Builder
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neo200411&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo200411&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo200411&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Neo200411/Neo200411/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Neo200411/Neo200411/output/github-contribution-grid-snake.svg" />
 
 </div>
+
+---
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/Neo200411
 
 ---
 
