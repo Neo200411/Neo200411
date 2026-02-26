@@ -53,9 +53,9 @@ MERN stack resume builder with Gemini AI integration
 
 <div align="center">
 
-![Neo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo200411&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neo200411&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo200411&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo200411&layout=compact&theme=tokyonight"/>
 
 </div>
 
