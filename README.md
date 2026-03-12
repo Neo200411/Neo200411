@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | AI & Generative AI Enthusiast</h3>
 
 <p align="center">
-🌐 Portfolio: https://your-portfolio-domain.vercel.app
+🌐 Portfolio: https://neo-dev-portfolio.vercel.app/
 </p>
 
 ---
