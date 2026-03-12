@@ -9,7 +9,7 @@
 - 🔭 Currently working on **AI Resume Builder & Hostel-Based Peer-to-Peer Marketplace Platform**
 - 🌱 Learning **MERN Stack, AI Integration**
 - 💡 Interested in **AI, Web Development, and Backend**
-- 🎯 Goal: Become Full Stack AI Developer
+- 🎯 Goal: Become Full Stack AI Developer & GEN-AI Engineer
 
 ---
 
