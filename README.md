@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neo Mishra</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & Generative AI Enthusiast</h3>
+
+<p align="center">
+🌐 Portfolio: https://your-portfolio-domain.vercel.app
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **AI Resume Builder & Hostel-Based Peer-to-Peer Marketplace Platform**
-- 🌱 Learning **MERN Stack, AI Integration**
-- 💡 Interested in **AI, Web Development, and Backend**
-- 🎯 Goal: Become Full Stack AI Developer & GEN-AI Engineer
+- 🔭 Currently building **AI Resume Builder & Hostel-Based Peer-to-Peer Marketplace Platform**
+- 🌱 Learning **MERN Stack, Machine Learning & Generative AI**
+- 💡 Interested in **AI, Web Development, and Backend Systems**
+- 🎯 Goal: Become a **Full Stack AI Engineer**
 
 ---
 
@@ -17,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,python,git,github,vscode" />
 
 </div>
 
@@ -26,17 +30,21 @@
 ## 📂 Featured Project
 
 ### 🤖 AI Resume Builder
-AI-powered resume builder using MERN stack and Gemini AI.
 
-🔗 Repo: https://github.com/Neo200411/AI_Resume_Builder
+AI-powered resume builder using **MERN stack + Gemini AI**
+
+🔗 Repo:  
+https://github.com/Neo200411/AI_Resume_Builder
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo200411&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Neo200411&show_icons=true&theme=tokyonight" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo200411&theme=tokyonight" height="160"/>
 
 </div>
 
@@ -55,6 +63,8 @@ AI-powered resume builder using MERN stack and Gemini AI.
 ## 📫 Connect with me
 
 - GitHub: https://github.com/Neo200411
+- LinkedIn: https://www.linkedin.com/in/neo-mishra-1372a0291/
+- Portfolio: https://your-portfolio-domain.vercel.app
 
 ---
 
