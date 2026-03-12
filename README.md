@@ -40,15 +40,6 @@ https://github.com/Neo200411/AI_Resume_Builder
 
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Neo200411/Neo200411/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ## 📫 Connect with me
 
