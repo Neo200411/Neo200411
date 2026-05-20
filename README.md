@@ -27,16 +27,7 @@
 
 ---
 
-## 📂 Featured Project
 
-### 🤖 AI Resume Builder
-
-AI-powered resume builder using **MERN stack + Gemini AI**
-
-🔗 Repo:  
-https://github.com/Neo200411/AI_Resume_Builder
-
----
 
 
 
