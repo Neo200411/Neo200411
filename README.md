@@ -36,7 +36,7 @@
 
 - GitHub: https://github.com/Neo200411
 - LinkedIn: https://www.linkedin.com/in/neo-mishra-1372a0291/
-- Portfolio: https://your-portfolio-domain.vercel.app
+- Portfolio: [https://your-portfolio-domain.vercel.app](https://neo-dev-portfolio.vercel.app/)
 
 ---
 
